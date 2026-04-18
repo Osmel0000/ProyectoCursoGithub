@@ -1,12 +1,4 @@
-print ("Hello Git")
-dekdknnk
-print ("cndkcjsdkj")
-dedhue
-
-cfrfrf
+print ("Hello Git nuevo")
 
 
-frrfrf
-bgg
-hhg
 
